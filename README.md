@@ -5,8 +5,8 @@ This project focuses on developing machine learning and deep learning models for
 This project was developed for the *Artificial Intelligence* course as part of the Master’s degree program in *Analytics and Data Science for Economics and Management* (Academic Year 2024/2025).
 
 ## Authors
-* Luigina Bertolotti
 * Samuela Paci
+* Luigina Bertolotti
 * Martina Pagan
 
 ## Project Structure
